@@ -1,0 +1,1 @@
+Deprecated addon. New project: [WebRTC](https://github.com/AlexxIT/WebRTC)
